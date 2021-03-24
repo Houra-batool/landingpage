@@ -1,0 +1,74 @@
+body{
+    margin: 0px ;
+    height: 900px ;
+    width: 1260px;
+    background-color: rgb(245, 244, 243);
+ }
+#logo{
+    padding: 5px 400px 40px 150px ;
+   
+ }
+#div1{
+    
+    font-size: 15px;
+    background-color:rgb(235, 232, 230);
+    height: 60px;
+ }
+ .hd1{
+ padding:  10px 20px 50PX 50px;
+ color: rgb(196, 90, 14);
+ 
+ }
+
+
+#center{
+  margin: 0px;
+  
+ position: relative;
+ background-color: rgb(250, 248, 248);
+ background-image: url("freeze.png");
+ background-repeat: no-repeat;
+ 
+ 
+ 
+   
+}
+h2{
+    color: rgb(226, 29, 62);
+    padding: 0px 40px;
+}
+h3, p{
+   color: rgb(196, 90, 14);
+   padding-top: 30px;
+   padding-left: 40px;
+   padding-bottom: 0px;
+}
+p{
+    padding-top: 0px;
+}
+
+#bottom{
+    margin :-20px;
+    background:rgb(235, 232, 230) url("yogurt.png") no-repeat scroll right bottom;
+    height: 200px;
+    width: 1280px;
+    
+}
+
+#foot_tb{
+    margin: 0px;
+    background-color: rgb(212, 226, 9);
+    padding: auto;
+    padding-left: 190px;;
+    height: 100px;
+    width: 100%;
+   background-position: bottom;
+   position: relative;
+   
+}
+
+figcaption{
+            font-size: 15px;
+            padding: 10px 0px;
+            color: white;
+}
